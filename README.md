@@ -6,7 +6,9 @@ IDE usada para o projeto: SQL Server Management Studio
 
 Linguagem usada: SQL
 
-Para executar os scripts é necessário ter a BD criada.
+Para executar o script é necessário ter a BD criada.
+
+Executar o script QuerysRelatorios.sql dentro do SQL Management Studio.
 
 Segue o modelo da BD:
 
