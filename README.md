@@ -10,5 +10,4 @@ Para executar o script é necessário ter a BD criada.
 
 Executar o script QuerysRelatorios.sql dentro do SQL Management Studio.
 
-Segue o modelo da BD:
-
+This is a challenge by Coodesh
